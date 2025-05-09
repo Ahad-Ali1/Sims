@@ -76,18 +76,10 @@ For more details about the project, please checkout [Final Report](Final-Report.
 
 ## Steps to run the project
 - Install XAMPP on your local machine.
-- Clone the project using
-    ```console
-    $ git clone https://github.com/Thirumalai-Shaktivel/Student_Information_Management_System.git
-    ```
-- Remove the contents of htdocs (xampp), and add all the items from the project which were cloned before.
 - Start the Apache and MySQL servers.
-- Create a database named `student details(mini project)`
-- Now, just [import the table contents](https://help.one.com/hc/en-us/articles/115005588189-How-do-I-import-a-database-to-phpMyAdmin-) using [student_details_mini_project_.sql](resource/student_details_mini_project_.sql)
 - Goto: `https://localhost/`
 - Testing login details (teacher):
     ```
     Name:     vijay
     Password: 123456789
     ```
-If you have any doubt related to this project, feel free to contact me on [twitter](https://twitter.com/sh0ck_thi) or [mail](mailto:thirumalaishaktivel@gmail.com) me.
