@@ -80,6 +80,6 @@ For more details about the project, please checkout [Final Report](Final-Report.
 - Goto: `https://localhost/`
 - Testing login details (teacher):
     ```
-    Name:     vijay
+    Name:     vivan
     Password: 123456789
     ```
