@@ -87,7 +87,7 @@ For more details about the project, please checkout [Final Report](Final-Report.
 - Goto: `https://localhost/`
 - Testing login details (teacher):
     ```
-    Name:     Thirumalai
+    Name:     vijay
     Password: 123456789
     ```
 If you have any doubt related to this project, feel free to contact me on [twitter](https://twitter.com/sh0ck_thi) or [mail](mailto:thirumalaishaktivel@gmail.com) me.
